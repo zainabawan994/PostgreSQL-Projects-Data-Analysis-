@@ -1,0 +1,1 @@
+This project is based on a retail sales dataset that stores information about customer transactions. Each row represents a single sale made by a customer.
