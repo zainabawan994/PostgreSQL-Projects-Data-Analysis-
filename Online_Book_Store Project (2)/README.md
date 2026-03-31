@@ -4,7 +4,6 @@
 This project focuses on performing **Exploratory Data Analysis (EDA)** and **Business Insights Extraction** using SQL on an online bookstore dataset.
 
 It analyzes customer behavior, sales trends, book performance, and genre-based insights.
-![Alt Text]("D:\Postgrsql Datasets\Project 2 LMS\graph_visualiser-1774879709671.png")
 
 ---
 
@@ -101,13 +100,6 @@ It analyzes customer behavior, sales trends, book performance, and genre-based i
 - Data-driven decision making
 
 ---
-
-## 📌 Future Improvements
-
-- Add dashboards (Power BI / Tableau)
-- Predict sales using ML models
-- Customer segmentation analysis
-- Recommendation system
 
 ---
 
