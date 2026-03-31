@@ -1,0 +1,47 @@
+Project Name: Online Book Store Analysis
+
+Description:
+This project performs exploratory data analysis (EDA) and business-level insights on an online bookstore database using SQL.
+
+Database Tables:
+1. Books
+   - Book_ID
+   - Author
+   - Genre
+   - Price
+   - Stock
+   - Published_Year
+
+2. Customers
+   - Customer_ID
+   - Name
+   - Country
+   - City
+
+3. Orders
+   - Order_ID
+   - Customer_ID
+   - Book_ID
+   - Quantity
+   - Total_Amount
+   - Order_Date
+
+Key Analysis Performed:
+- Total books, authors, and genres
+- Price analysis (before & after 1995)
+- Stock distribution by genre
+- Customer distribution by country
+- Customer spending behavior
+- Genre-wise revenue analysis
+- Monthly sales trends
+- Top customers and countries
+- Ranking books within genres
+
+Tools Used:
+- SQL (PostgreSQL / MySQL compatible)
+
+Project Duration:
+~1–2 weeks (EDA + insights)
+
+Objective:
+To derive meaningful business insights from bookstore data to support decision-making in sales, marketing, and inventory management.
